@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <style>
+        [class*="col"]{
+            padding:1rem;
+            background-color: #33b5e5;
+            border: 2px solid #ffffff;
+            color:#ffffff;
+        }
+    </style>
+</head>
+<body>
+    <!-- gx-0 gx-1 ... gx-5: X-Axis-Gutter, 0=Max Space, 5=Min -->
+    <!-- gy-0 gy-1 ... gy-5: Y-Axis Gutter, 0=Min Space, 5=Max -->
+    <!-- Notice that gy only works when column_sum >= 12 -->
+
+    <div class="container">
+        <div class="row border">
+            <div class="col-6">Hey</div>
+            <div class="col-6">Hey</div>
+            <div class="col-6">Hey</div>
+            <div class="col-6">Hey</div>
+        </div>
+        <div class="row" style="height:100px;"></div>
+
+        <div class="row border gx-0">
+            <div class="col-6">Hey</div>
+            <div class="col-6">Hey</div>
+            <div class="col-6">Hey</div>
+            <div class="col-6">Hey</div>
+        </div>
+        <div class="row" style="height:100px;"></div>
+
+        <div class="row border gy-5">
+            <div class="col-6">Hey</div>
+            <div class="col-6">Hey</div>
+            <div class="col-6">Hey</div>
+            <div class="col-6">Hey</div>
+        </div>
+        <div class="row" style="height:100px;"></div>
+    </div>
+    <script src="js/bootstrap.bundle.js"></script>
+</body>
+</html>
