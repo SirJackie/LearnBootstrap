@@ -16,3 +16,7 @@
 - navbar
 - card
 - footer
+- table
+- form
+- alert
+- icon
