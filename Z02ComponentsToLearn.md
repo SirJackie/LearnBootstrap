@@ -6,7 +6,7 @@
 - ✓ CSS Box Model: width, height, margin, padding, border
 - ✓ Responsive Image: img-fluid
 - ✓ Typography: `<h1> ~ <h6>`, `display-1 ~ display-6`, fs-1/2/3/4/5/6
-- Buttons: btn-primary, btn-outline-primary
+- ✓ Buttons: btn-primary, btn-outline-primary
 - Center Utilities: text-center, justify-content, vertical-align
 - Background: bg-danger-subtle
 - Shadow: shadow-lg, shadow, shadow-sm
