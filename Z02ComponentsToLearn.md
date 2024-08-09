@@ -1,6 +1,6 @@
 # Need to Memorize
 
-- Hello Bootstrap: import js & css properly
+- ✓ Hello Bootstrap: import js & css properly
 - ✓ Emmet Shortcuts: lorem10
 - Grid System: container, row, column
 - CSS Box Model: width, height, margin, padding, border
