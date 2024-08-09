@@ -2,7 +2,7 @@
 
 - Emmet Shortcuts: lorem10
 - Grid System: container, row, column
-- CSS Box Model: margin, padding, border
+- CSS Box Model: width, height, margin, padding, border
 - Responsive Image: img-fluid
 - Typography: `<h1> ~ <h6>`, `display-1 ~ display-6`, text-xxl
 - Buttons: btn-primary, btn-outline-primary
