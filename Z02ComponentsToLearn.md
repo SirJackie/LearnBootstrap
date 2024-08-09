@@ -1,6 +1,6 @@
 # Need to Memorize
 
-- Emmet Shortcuts: lorem10
+- ✓ Emmet Shortcuts: lorem10
 - Grid System: container, row, column
 - CSS Box Model: width, height, margin, padding, border
 - Responsive Image: img-fluid

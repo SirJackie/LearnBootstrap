@@ -1,7 +1,0 @@
-!
-link
-script:src
-.container
-btn.btn
-img.card-image
-lorem10
